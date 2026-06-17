@@ -55,3 +55,37 @@ Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 R² Score
 Prediction Accuracy
+
+
+📸 Dashboard Modules
+🏠 Dashboard
+AQI statistics
+Feature importance visualization
+AQI distribution analysis
+City-wise AQI comparison
+🔍 Data Explorer
+Dataset preview
+Missing value heatmap
+Descriptive statistics
+Correlation matrix
+📡 Model Performance
+Actual vs Predicted AQI
+Residual analysis
+Feature importance explorer
+Performance metrics
+⚡ Predict AQI
+Custom pollutant input
+Real-time AQI prediction
+AQI gauge visualization
+Health impact assessment
+SMS alert system
+📱 AQI Alert System
+
+When predicted AQI exceeds 300, the application automatically sends an SMS alert using Twilio to notify users about hazardous air quality conditions.
+
+🎯 Future Enhancements
+Weather-based AQI forecasting
+Deep Learning models (LSTM, XGBoost)
+AQI prediction for multiple cities
+Real-time AQI API integration
+Deployment on AWS/Azure
